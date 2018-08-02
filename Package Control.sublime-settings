@@ -1,16 +1,43 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"3D Tool (Async Burst-Mode)",
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Highlighter",
+		"Jedi Syntax",
+		"JSX",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Package Control",
+		"React IDE",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Ruby Slim",
+		"SCSS",
+		"SCSS Compiler",
+		"SCSS Snippets",
+		"Simple JSX",
+		"SPARQL",
+		"Terminal",
+		"Theme - Spacegray"
+	]
 }
