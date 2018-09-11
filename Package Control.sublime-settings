@@ -7,6 +7,7 @@
 	[
 		"1Self",
 		"3D Tool (Async Burst-Mode)",
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"AlignTab",
@@ -19,6 +20,7 @@
 		"ColorPicker",
 		"Emmet",
 		"ERB Snippets",
+		"FileIcons",
 		"Git",
 		"GitGutter",
 		"Highlighter",
@@ -38,6 +40,8 @@
 		"Simple JSX",
 		"SPARQL",
 		"Terminal",
+		"Theme - Monokai+",
+		"Theme - Nexus",
 		"Theme - Spacegray"
 	]
 }
